@@ -15,6 +15,7 @@ Group Number:
 6
 
 Group Members:
-21301716 Fatin Ishrak  
-18101589 Zarin Tasnim Promi  
+18101589 Zarin Tasnim Promi 
 18101683 Ridah Khurshid
+21301716 Fatin Ishrak  
+ 
