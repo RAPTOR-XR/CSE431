@@ -2,7 +2,7 @@ Unlisted youtube video:
 https://youtu.be/DXpJ3jcq0sQ
 
 Conference submitted paper / paper submission / login Link:
-https://openreview.net/login?redirect=%2Fforum%3Fid%3DL7j5xPtunC4&fbclid=IwAR2t7PJRv8n6d3wbuT3GAQbekLqzMoUNZ7f39kKml-W-BEbI8Hj44_T8aE0
+https://openreview.net/group?id=NeurIPS.cc%2F2022%2FConference&referrer=[Homepage](%2F)&fbclid=IwAR0UUe5wpXhVxbiqEQH7afTO7bIcleA3ETGmrqDwGmN4HgTPkekUTPXG080
 
 Paper title:
 A Reversible Transformer based Bangla conversational agent
